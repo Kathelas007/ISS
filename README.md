@@ -1,2 +1,2 @@
-# ISS
-Signals and Systems
+# ISS - Signals and Systems
+Basic program for searching in audio based on acoustic pattern with use of Hammings window, fourier transform, pearson correlation coefficient, ...
